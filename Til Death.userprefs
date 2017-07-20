@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mapbox/Unity/Location/TransformLocationProvider.cs">
+    <Files>
+      <File FileName="Assets/Mapbox/Unity/Map/AbstractMap.cs" Line="3" Column="2" />
+      <File FileName="Assets/Scripts/GyroscopeScript.cs" Line="18" Column="17" />
+      <File FileName="Assets/Scripts/LocatorScript.cs" Line="51" Column="31" />
+      <File FileName="Assets/Mapbox/Core/mapbox-sdk-cs/Utils/Vector2d/Vector2d.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mapbox/Examples/LocationProvider/Scripts/BuildMapAtLocation.cs" Line="23" Column="1" />
+      <File FileName="Assets/Mapbox/Unity/Location/TransformLocationProvider.cs" Line="29" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
